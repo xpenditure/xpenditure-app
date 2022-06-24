@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>xpenditure App!</Text>
+      <Text>Dev branch xpenditure App!</Text>
       <StatusBar style="auto" />
     </View>
   );
